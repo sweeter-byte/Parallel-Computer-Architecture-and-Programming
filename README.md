@@ -7,7 +7,7 @@
 [My summary](https://zhuanlan.zhihu.com/p/1947269726746154097)
 
 some notes:
-$Speedup = \frac{T_1}{T_p}$, $T_1 $ is the time of serial execution, $T_p$ is the time of parallel execution. 
+$Speedup = \frac{T_1}{T_p}$, $T_1$ is the time of serial execution, $T_p$ is the time of parallel execution. 
 
 some limitations of speedup:
 1. Communication cost. 

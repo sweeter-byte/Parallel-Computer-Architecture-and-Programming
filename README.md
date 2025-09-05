@@ -3,7 +3,8 @@
 
 
 ## Lect 1
-[Lect 1 pdf: Why Parallelism](https://www.cs.cmu.edu/afs/cs/academic/class/15418-s18/www/lectures/01_whyparallelism.pdf)
+[Lect 1 pdf: Why Parallelism](https://www.cs.cmu.edu/afs/cs/academic/class/15418-s18/www/lectures/01_whyparallelism.pdf) 
+
 [My summary](https://zhuanlan.zhihu.com/p/1947269726746154097)
 
 some notes:
